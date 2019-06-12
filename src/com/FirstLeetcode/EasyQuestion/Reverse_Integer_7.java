@@ -41,3 +41,9 @@ public class Reverse_Integer_7 {
  * 判断  最大最小Intger 值 /10 后的值 如果rev超过  直接返回0  如果相等需要判断  下一位pop 是否 大于 或 小于 -8
  * MAX_VALUE ： 2147483647    MIN_VALUE：-2147483648
  */
+
+
+/**
+ * 时间复杂度：O(log(x))，x中大约有 log10(x)位数字。
+ * 空间复杂度：O(1)。
+ */
