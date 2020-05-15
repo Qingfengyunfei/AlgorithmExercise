@@ -7,6 +7,6 @@ LeetCode算法练习
 
 ## 第一遍刷题Java剑指offer第二版
 
-#### [1.数组中重复的数字](https://github.com/qingfengyunfei16/AlgorithmExercise/tree/master/src/com/FirstOfferV2)
-#### [2.二维数组中的查找](https://github.com/qingfengyunfei16/AlgorithmExercise/tree/master/src/com/FirstOfferV2)
-#### [3.替换空格](https://github.com/qingfengyunfei16/AlgorithmExercise/tree/master/src/com/FirstOfferV2)
+#### [1.数组中重复的数字](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/FindRepeatNumber.java)
+#### [2.二维数组中的查找](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/FindNumberIn2DArray.java)
+#### [3.替换空格](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/ReplaceSpace.java)
