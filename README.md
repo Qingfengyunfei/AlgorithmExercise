@@ -5,10 +5,8 @@ LeetCode算法练习
 
 ### 数组
 
-
-
 ## 第一遍刷题Java剑指offer第二版
 
-#### 1.数组中重复的数字
-#### 2.二维数组中的查找
-#### 3.替换空格
+#### [1.数组中重复的数字](https://github.com/qingfengyunfei16/AlgorithmExercise/tree/master/src/com/FirstOfferV2)
+#### [2.二维数组中的查找](https://github.com/qingfengyunfei16/AlgorithmExercise/tree/master/src/com/FirstOfferV2)
+#### [3.替换空格](https://github.com/qingfengyunfei16/AlgorithmExercise/tree/master/src/com/FirstOfferV2)
