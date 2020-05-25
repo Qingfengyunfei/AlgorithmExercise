@@ -11,7 +11,7 @@ LeetCode算法练习
 #### [2.二维数组中的查找](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/FindNumberIn2DArray.java)
 #### [3.替换空格](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/ReplaceSpace.java)
 #### [4.从尾到头打印链表](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/ReversePrint.java)
-
+#### [6.用两个栈实现队列](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/CQueue.java)
 
 ## Leetcode竞赛题目
 
