@@ -13,6 +13,7 @@ LeetCode算法练习
 #### [4.从尾到头打印链表](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/ReversePrint.java)
 #### [5.重建二叉树](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/RebuildBinaryTree.java)
 #### [6.用两个栈实现队列](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/CQueue.java)
+#### [7.斐波那契数列](https://github.com/qingfengyunfei16/AlgorithmExercise/blob/master/src/com/FirstOfferV2/Fib.java)
 
 ## Leetcode竞赛题目
 
